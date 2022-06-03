@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Agent": 2
+  },
+  "models": {
+    "Agent": {
+      "1": "{\"AgentName\":\"string\",\"BusinessName\":\"string\",\"MobileNumber\":0,\"EmailId\":\"string\",\"City\":\"string\",\"PinCode\":0,\"AdharCard\":\"string\",\"PanCard\":\"string\",\"CustomerId\":1}"
+    }
+  }
+}
